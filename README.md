@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Education and Earnings: Unraveling the Impact of Higher Education on Income
+Stat 201 Group 32 Project
